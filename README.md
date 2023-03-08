@@ -1,4 +1,4 @@
-# Stroke_Prediction
+# Stroke Prediction
 
 ## REQUIREMENTS
 
